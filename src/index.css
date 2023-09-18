@@ -10,3 +10,6 @@ body{
     padding: 20px 36px;
     display: flex;
 }
+.navlinks .logo{
+    max-width: 100px;
+}
